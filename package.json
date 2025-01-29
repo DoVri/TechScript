@@ -1,0 +1,12 @@
+{
+  "name": "techscript",
+  "version": "1.0.0",
+  "description": "Techscript Interpreter",
+  "main": "techscript.js",
+  "scripts": {
+    "start": "node techscript.js example.tes"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
