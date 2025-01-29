@@ -1,0 +1,31 @@
+# Techscript
+
+## Apa Itu Techscript?
+Techscript adalah bahasa pemrograman berbasis JavaScript yang memungkinkan penggabungan **HTML, CSS (Tailwind, Bootstrap, DaisyUI), JavaScript, dan backend Python** dalam satu file dengan ekstensi **`.tes`**.  
+Techscript dapat dijalankan langsung tanpa mengekstrak file, menghasilkan **web server di localhost** secara otomatis.  
+
+## Siapa yang Membuat Techscript?
+Techscript dikembangkan oleh **Imanuel Reski Sutanto** sebagai solusi untuk mengintegrasikan frontend dan backend dalam satu file tanpa perlu file terpisah.  
+
+---
+
+## 🔧 Cara Menggunakan Techscript
+
+### 1️⃣ Instalasi
+Pastikan **Node.js** dan **Python** sudah terinstall di sistem. Lalu, install dependency yang diperlukan:
+
+```sh
+npm install
+
+Kegunaan Techscript
+Membuat website dengan cepat dalam satu file tanpa perlu memisahkan backend dan frontend.
+Menjalankan backend Python langsung dari file .tes tanpa konfigurasi tambahan.
+Cocok untuk prototipe dan pengembangan cepat tanpa perlu banyak file terpisah.
+
+
+🎯 Kelebihan Techscript
+✅ Sederhana & Efisien – Semua dalam satu file .tes, tanpa konfigurasi kompleks.
+✅ Dukungan Frontend Lengkap – Bisa menggunakan Tailwind, Bootstrap, dan DaisyUI langsung.
+✅ Backend Python Terintegrasi – Backend bisa langsung dijalankan tanpa server terpisah.
+✅ Web Server Otomatis – File .tes langsung dijalankan di localhost tanpa tambahan file.
+✅ Cepat & Fleksibel – Cocok untuk pengembangan cepat, belajar coding, atau proyek eksperimental.
